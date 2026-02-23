@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">v2rayNG</string>
+    <string name="app_name">MiladPooti</string>
     <string name="app_widget_name">Switch</string>
 
     <!-- Notifications -->
@@ -11,7 +11,7 @@
     <string name="toast_services_success">Start Services Success</string>
     <string name="toast_services_failure">Start Services Failure</string>
 
-    <!--ServerActivity-->
+    <!-- ServerActivity -->
     <string name="title_server">Server</string>
     <string name="menu_item_add_config">Add config</string>
     <string name="menu_item_save_config">Save config</string>
@@ -19,7 +19,7 @@
     <string name="menu_item_import_config_qrcode">Import config from QRcode</string>
     <string name="menu_item_import_config_clipboard">Import config from Clipboard</string>
     <string name="menu_item_import_config_manually">Type manually</string>
-    <string name="del_config_comfirm">Confirm delete？</string>
+    <string name="del_config_comfirm">Confirm delete?</string>
     <string name="server_lab_remarks">remarks</string>
     <string name="server_lab_address">address</string>
     <string name="server_lab_port">port</string>
@@ -37,14 +37,12 @@
     <string name="toast_incorrect_protocol">Incorrect protocol</string>
     <string name="toast_decoding_failed">Decoding failed</string>
 
-
-    <string name="switch_bypass_apps_on">Don\'t proxy selected apps</string>
+    <string name="switch_bypass_apps_on">Don't proxy selected apps</string>
     <string name="switch_bypass_apps_off">Proxy selected apps</string>
 
     <!-- PerAppProxyActivity -->
     <string name="msg_dialog_progress">Loading</string>
     <string name="menu_item_select_all">Select all</string>
-
 
     <!-- Preferences -->
     <string name="title_settings">Settings</string>
@@ -54,10 +52,14 @@
     <string name="summary_pref_bypass_mainland">Bypass mainland</string>
 
     <string name="title_pref_per_app_proxy">Per-app proxy</string>
-    <string name="summary_pref_per_app_proxy">Per-app proxy mode only support Android 5.0 Lollipop or higher</string>
+    <string name="summary_pref_per_app_proxy">
+        Per-app proxy mode only support Android 5.0 Lollipop or higher
+    </string>
 
     <string name="title_pref_feedback">Feedback</string>
-    <string name="summary_pref_feedback">Feedback enhancements or bugs to GitHub</string>
+    <string name="summary_pref_feedback">
+        Feedback enhancements or bugs to GitHub
+    </string>
 
     <string name="title_pref_version">Version</string>
 
